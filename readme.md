@@ -11,7 +11,7 @@
 </div>
 
 <div style="background: #1f1d2e; padding: 0.8rem; border-radius: 6px; border: 1px solid #eb6f9240; text-align: center; margin-bottom: 2rem;">
-  <span style="color: #eb6f92; font-weight: bold;">⚠️ Requirements:</span> <span style="color: #e0def4;">This theme heavily utilizes the modern CodeMirror 6 engine. You must be running <strong>Acode v1.11.5+</strong> (versionCode 963+) or newer.</span>
+  <span style="color: #eb6f92; font-weight: bold;">⚠️ Requirements:</span> <span style="color: #e0def4;">This theme heavily utilizes the modern CodeMirror 6 engine. You must be running <strong>Acode v1.11.5+</strong> or newer.</span>
 </div>
 
 <h2 style="color: #c4a7e7; border-bottom: 2px solid #26233a; padding-bottom: 8px;">🌟 What's Included?</h2>
