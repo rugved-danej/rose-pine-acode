@@ -1,0 +1,21 @@
+{
+  "id": "dev.rugved.rosepine.theme",
+  "name": "Rosé Pine Theme",
+  "version": "1.0.0",
+  "author": {
+    "name": "Rugved",
+    "github": "rugved-danej",
+    "website": "https://rugveddanej.me"
+  },
+  "license": "MIT",
+  "repo": "https://github.com/rugved-danej/rose-pine-acode",
+  "price": 0,
+  "keywords": [
+    "theme",
+    "rose-pine",
+    "rose pine",
+    "dark",
+    "colors"
+  ],
+  "main": "dist/main.js"
+}

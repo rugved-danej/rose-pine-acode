@@ -1,0 +1,26 @@
+{
+  "name": "dev.rugved.rosepine.theme",
+  "version": "1.0.0",
+  "description": "Rosé Pine Theme for Acode",
+  "author": {
+    "name": "Rugved",
+    "url": "https://rugveddanej.me"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rugved-danej/rose-pine-acode.git"
+  },
+  "acodez": {
+    "obfuscate": false
+  },
+  "scripts": {
+    "build": "acodez build",
+    "dev": "acodez dev"
+  },
+  "devDependencies": {
+    "acode-plugin-types": "^1.12.9",
+    "typescript": "^5.9.3",
+    "@rose-pine/palette": "^2.0.1"
+  }
+}
